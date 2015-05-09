@@ -1,0 +1,47 @@
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\bin\Debug\Imenik.exe.config
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\bin\Debug\Imenik.exe
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\bin\Debug\Imenik.pdb
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\Imenik.MainForm.resources
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\Imenik.exe
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\obj\Debug\Imenik.pdb
+D:\Preuzimanja\Imenik\Imenik\bin\Debug\Imenik.exe.config
+D:\Preuzimanja\Imenik\Imenik\obj\Debug\Imenik.exe
+D:\Preuzimanja\Imenik\Imenik\obj\Debug\Imenik.pdb
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\Imenik.exe.config
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\Imenik.exe
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\Imenik.pdb
+D:\Preuzimanja\linux\projects\Imenik\Imenik\obj\Debug\Imenik.csprojResolveAssemblyReference.cache
+D:\Preuzimanja\linux\projects\Imenik\Imenik\obj\Debug\Imenik.MainForm.resources
+D:\Preuzimanja\linux\projects\Imenik\Imenik\obj\Debug\Imenik.csproj.GenerateResource.Cache
+D:\Preuzimanja\linux\projects\Imenik\Imenik\obj\Debug\Imenik.exe
+D:\Preuzimanja\linux\projects\Imenik\Imenik\obj\Debug\Imenik.pdb
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\ICSharpCode.Reports.Core.dll
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\itextsharp.dll
+D:\Preuzimanja\linux\projects\Imenik\Imenik\bin\Debug\Irony.dll
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Imenik\Imenik\bin\Debug\Irony.dll
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\bin\Debug\Imenik.exe.config
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\bin\Debug\Imenik.exe
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\bin\Debug\Imenik.pdb
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\bin\Debug\Irony.dll
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\Imenik.MainForm.resources
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\Imenik.exe
+C:\Documents and Settings\Milivoyevich\My Documents\SharpDevelop Projects\Adresar\Imenik\obj\Debug\Imenik.pdb
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\Imenik.exe.config
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\Imenik.exe
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\Imenik.pdb
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\ICSharpCode.Reports.Core.dll
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\itextsharp.dll
+D:\Preuzimanja\linux\projects\Adresar\Imenik\bin\Debug\Irony.dll
+D:\Preuzimanja\linux\projects\Adresar\Imenik\obj\Debug\Imenik.csprojResolveAssemblyReference.cache
+D:\Preuzimanja\linux\projects\Adresar\Imenik\obj\Debug\Imenik.MainForm.resources
+D:\Preuzimanja\linux\projects\Adresar\Imenik\obj\Debug\Imenik.csproj.GenerateResource.Cache
+D:\Preuzimanja\linux\projects\Adresar\Imenik\obj\Debug\Imenik.exe
+D:\Preuzimanja\linux\projects\Adresar\Imenik\obj\Debug\Imenik.pdb

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReportModel>
+    <ReportSettings>
+        <ReportSettings>
+            <ReportName>Report1</ReportName>
+            <ReportType>DataReport</ReportType>
+            <BottomMargin>50</BottomMargin>
+            <TopMargin>50</TopMargin>
+            <LeftMargin>50</LeftMargin>
+            <RightMargin>50</RightMargin>
+            <PageSize>827, 1169</PageSize>
+            <Landscape>False</Landscape>
+            <GraphicsUnit>Millimeter</GraphicsUnit>
+            <Padding>5, 5, 5, 5</Padding>
+            <AvailableFieldsCollection>
+                <AbstractColumn>
+                    <ColumnName>id</ColumnName>
+                    <DataTypeName>System.Int32</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Naziv</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Ime</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Prezime</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Adresa</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Mesto</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Telefon</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Mob1</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Mob2</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Email1</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Email2</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+                <AbstractColumn>
+                    <ColumnName>Ostalo</ColumnName>
+                    <DataTypeName>System.String</DataTypeName>
+                </AbstractColumn>
+            </AvailableFieldsCollection>
+            <SortColumnsCollection />
+            <GroupColumnsCollection />
+            <ParameterCollection>
+                <BasicParameter>
+                    <ParameterName>idkor</ParameterName>
+                </BasicParameter>
+            </ParameterCollection>
+            <SqlParameters />
+            <ConnectionString />
+            <CommandText />
+            <CommandType>TableDirect</CommandType>
+            <DataModel>PushData</DataModel>
+            <NoDataMessage>No Data for this Report</NoDataMessage>
+            <DefaultFont>Microsoft Sans Serif, 9.75pt</DefaultFont>
+            <UseStandardPrinter>True</UseStandardPrinter>
+        </ReportSettings>
+    </ReportSettings>
+    <SectionCollection>
+        <BaseSection>
+            <Location>50, 50</Location>
+            <Size>727, 60</Size>
+            <BackColor>White</BackColor>
+            <SectionOffset>0</SectionOffset>
+            <SectionMargin>0</SectionMargin>
+            <DrawBorder>False</DrawBorder>
+            <PageBreakAfter>False</PageBreakAfter>
+            <Items>
+                <BaseTextItem>
+                    <Location>144, 18</Location>
+                    <Size>447, 28</Size>
+                    <BackColor>White</BackColor>
+                    <Font>Microsoft Sans Serif, 14.25pt, style=Bold</Font>
+                    <StringTrimming>None</StringTrimming>
+                    <ContentAlignment>TopLeft</ContentAlignment>
+                    <CanGrow>True</CanGrow>
+                    <CanShrink>False</CanShrink>
+                    <RTL>No</RTL>
+                    <Text>Подаци о појединачном члану</Text>
+                    <DrawBorder>False</DrawBorder>
+                    <FrameColor>Black</FrameColor>
+                    <ForeColor>ControlText</ForeColor>
+                    <Name>BaseTextItem1</Name>
+                </BaseTextItem>
+            </Items>
+            <FrameColor>Black</FrameColor>
+            <Name>ReportHeader</Name>
+        </BaseSection>
+        <BaseSection>
+            <Location>50, 125</Location>
+            <Size>727, 10</Size>
+            <BackColor>LightGray</BackColor>
+            <SectionOffset>0</SectionOffset>
+            <SectionMargin>0</SectionMargin>
+            <DrawBorder>False</DrawBorder>
+            <PageBreakAfter>False</PageBreakAfter>
+            <Items />
+            <FrameColor>Black</FrameColor>
+            <Name>ReportPageHeader</Name>
+        </BaseSection>
+        <BaseSection>
+            <Location>50, 150</Location>
+            <Size>727, 402</Size>
+            <BackColor>White</BackColor>
+            <SectionOffset>0</SectionOffset>
+            <SectionMargin>0</SectionMargin>
+            <DrawBorder>False</DrawBorder>
+            <PageBreakAfter>False</PageBreakAfter>
+            <Items>
+                <BaseRectangleItem>
+                    <Location>34, 3</Location>
+                    <Size>659, 384</Size>
+                    <BackColor>WhiteSmoke</BackColor>
+                    <ForeColor>DimGray</ForeColor>
+                    <DashStyle>Solid</DashStyle>
+                    <Thickness>3</Thickness>
+                    <CornerRadius>15</CornerRadius>
+                    <Items>
+                        <BaseDataItem>
+                            <Location>57, 210</Location>
+                            <Size>560, 156</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem12</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Ostalo]</ColumnName>
+                            <Name>BaseDataItem12</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>326, 173</Location>
+                            <Size>291, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem11</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Email2]</ColumnName>
+                            <Name>object_77287886_b068_450e_ba15_122454f70d8e</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>62, 173</Location>
+                            <Size>234, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem10</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Email1]</ColumnName>
+                            <Name>object_c5374cb6_2a47_4402_885c_8af48d859549</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>326, 138</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem9</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Mob2]</ColumnName>
+                            <Name>object_d9e14ee8_0771_42e4_b05e_e78e411ba749</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>196, 138</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem8</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Mob1]</ColumnName>
+                            <Name>object_f4ac490a_3178_4e9b_b6f5_c8d4a38d36a6</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>62, 138</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem7</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Telefon]</ColumnName>
+                            <Name>object_d9bc91ce_ff2b_4e27_9c9f_b6b234900c36</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>326, 102</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem6</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Mesto]</ColumnName>
+                            <Name>object_43832743_53e0_4cf4_bf05_67acd6462432</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>62, 101</Location>
+                            <Size>207, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem5</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Adresa]</ColumnName>
+                            <Name>object_39b49b62_a7b0_433e_86ae_e14feb39a9e2</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>277, 59</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem4</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Prezime]</ColumnName>
+                            <Name>object_a4e2f0b4_0fc6_445e_af19_32a128602dbb</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>125, 59</Location>
+                            <Size>100, 20</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 9pt</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem3</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>ControlText</ForeColor>
+                            <ColumnName>=[Ime]</ColumnName>
+                            <Name>object_789ae10e_2141_4797_9aa5_94dcf443748e</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>125, 14</Location>
+                            <Size>144, 29</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 14.25pt, style=Bold</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.String</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem1</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>Black</ForeColor>
+                            <ColumnName>=[Naziv]</ColumnName>
+                            <Name>object_3b4bdd0c_9206_4247_9ed5_b2fcb091a4db</Name>
+                        </BaseDataItem>
+                        <BaseDataItem>
+                            <Location>62, 14</Location>
+                            <Size>34, 29</Size>
+                            <BackColor>WhiteSmoke</BackColor>
+                            <Font>Microsoft Sans Serif, 14.25pt, style=Bold</Font>
+                            <StringTrimming>None</StringTrimming>
+                            <ContentAlignment>TopLeft</ContentAlignment>
+                            <CanGrow>True</CanGrow>
+                            <CanShrink>False</CanShrink>
+                            <DataType>System.Int</DataType>
+                            <RTL>No</RTL>
+                            <Text>BaseDataItem2</Text>
+                            <DrawBorder>False</DrawBorder>
+                            <FrameColor>Black</FrameColor>
+                            <ForeColor>Black</ForeColor>
+                            <ColumnName>=[id]</ColumnName>
+                            <Name>object_ac4f7047_2b95_4557_b478_a0ccb6eda851</Name>
+                        </BaseDataItem>
+                    </Items>
+                    <Name>BaseRectangleItem1</Name>
+                </BaseRectangleItem>
+            </Items>
+            <FrameColor>Black</FrameColor>
+            <Name>ReportDetail</Name>
+        </BaseSection>
+        <BaseSection>
+            <Location>50, 567</Location>
+            <Size>727, 60</Size>
+            <BackColor>White</BackColor>
+            <SectionOffset>0</SectionOffset>
+            <SectionMargin>0</SectionMargin>
+            <DrawBorder>False</DrawBorder>
+            <PageBreakAfter>False</PageBreakAfter>
+            <Items />
+            <FrameColor>Black</FrameColor>
+            <Name>ReportPageFooter</Name>
+        </BaseSection>
+        <BaseSection>
+            <Location>50, 642</Location>
+            <Size>727, 60</Size>
+            <BackColor>White</BackColor>
+            <SectionOffset>0</SectionOffset>
+            <SectionMargin>0</SectionMargin>
+            <DrawBorder>False</DrawBorder>
+            <PageBreakAfter>False</PageBreakAfter>
+            <Items />
+            <FrameColor>Black</FrameColor>
+            <Name>ReportFooter</Name>
+        </BaseSection>
+    </SectionCollection>
+</ReportModel>
